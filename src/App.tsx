@@ -15,7 +15,7 @@ import BrowseJobsPage from './pages/BrowseJobsPage';
 import BrowseCompaniesPage from './pages/BrowseCompaniesPage';
 import SalaryInfoPage from './pages/SalaryInfoPage';
 import CareerAdvicePage from './pages/CareerAdvicePage';
-import BrowseCandidatesPage from './pages/BrowseCandidatesPage';
+import BrowseCandidatesPage from './pages/BrowseCandidatesPage.tsx';
 import PricingPlansPage from './pages/PricingPlansPage';
 import RecruitmentSolutionsPage from './pages/RecruitmentSolutionsPage';
 import PrivateRoute from './components/PrivateRoute';
